@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496850985449",
+    "project_id": "translator-app-f3921",
+    "storage_bucket": "translator-app-f3921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496850985449:android:0344bb4845fea6aaa8ab78",
+        "android_client_info": {
+          "package_name": "com.example.turkish_english_pronunciation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496850985449-hm00l0hdic2b8jdbmhmfdf1gufqmpc5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsgXT353nRet6hXMJ97j6s4EKU7WmMwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496850985449-hm00l0hdic2b8jdbmhmfdf1gufqmpc5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
